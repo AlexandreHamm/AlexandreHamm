@@ -1,7 +1,6 @@
 ### TEST
-<img align='right' alt='' src=''></img>
 ---
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexandreHamm&theme=react&show_icons=true&hide_title=true&hide_border=true" alt="Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexandreHamm&theme=react&show_icons=true&hide_title=true&hide_border=true" href='#' alt="Github Stats">
 
 ![Visitor Count](https://profile-counter.glitch.me/AlexandreHamm/count.svg)
 
