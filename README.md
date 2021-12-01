@@ -1,4 +1,4 @@
-<img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&lines=Welcome" alt="Spotify" \>
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&lines=Welcome" alt="Spotify" />
 ---
 <img align="center" style='pointer-events:none' src="https://github-readme-stats.vercel.app/api?username=AlexandreHamm&theme=react&show_icons=true&hide_title=true&hide_border=true" alt="Github Stats">
 
