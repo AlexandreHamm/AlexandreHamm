@@ -7,4 +7,4 @@
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexandreHamm&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DDDDDD&currStreakNum=DDDDDD&sideNums=DDDDDD)
 
-<p align='right'>[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xdeepz&cover_image=false&theme=novatorem&bar_color=0dbef2&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=xdeepz&redirect=true)</p>
+[![spotify-github-profile]<p align='right'>(https://spotify-github-profile.vercel.app/api/view?uid=xdeepz&cover_image=false&theme=novatorem&bar_color=0dbef2&bar_color_cover=false)</p>](https://spotify-github-profile.vercel.app/api/view?uid=xdeepz&redirect=true)
