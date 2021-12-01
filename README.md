@@ -8,3 +8,5 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexandreHamm&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DDDDDD&currStreakNum=DDDDDD&sideNums=DDDDDD)
 
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=xdeepz&cover_image=false&theme=novatorem&bar_color=0dbef2&bar_color_cover=false&align=right)](https://spotify-github-profile.vercel.app/api/view?uid=xdeepz&redirect=true)
+
+<img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=xdeepz&cover_image=false&theme=novatorem&bar_color=0dbef2&bar_color_cover=false&align=right" href='https://spotify-github-profile.vercel.app/api/view?uid=xdeepz&redirect=true' alt="Tadeu's Github Stats">
