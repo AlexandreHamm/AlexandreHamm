@@ -9,4 +9,4 @@
 
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=xdeepz&cover_image=false&theme=novatorem&bar_color=0dbef2&bar_color_cover=false&align=right)](https://spotify-github-profile.vercel.app/api/view?uid=xdeepz&redirect=true)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mazarafa&show_icons=true&hide_border=true" alt="Tadeu's Github Stats">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=AlexandreHamm&show_icons=true&hide_border=true" alt="Tadeu's Github Stats">
