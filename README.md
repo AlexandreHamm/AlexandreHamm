@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <body style='width=100%;height=100%'>
-    <header align='center'>Test</header>
+    <p align='center'>Test</p>
 </body>
 </html>
