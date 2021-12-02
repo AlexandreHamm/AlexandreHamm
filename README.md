@@ -1,9 +1,3 @@
-<style>
-    header{
-        margin-top: 1000px;
-    }
-</style>
-
 <header align='top'><img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=xdeepz&cover_image=true&theme=novatorem&bar_color=0dbef2&bar_color_cover=false&align=right" href='https://spotify-github-profile.vercel.app/api/view?uid=xdeepz&redirect=true' alt="Spotify"><img align='left' src='https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=false&width=485&height=65&lines=TRAINING+COURSE+AT+ONLINEFORMAPRO'></header><br \><br \>
 <hr \><br \>
 [ I N - C O N S T R U C T I O N ]
