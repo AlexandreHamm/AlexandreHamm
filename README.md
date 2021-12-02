@@ -7,20 +7,3 @@
 
 <img align="right" src="https://profile-counter.glitch.me/AlexandreHamm/count.svg" alt="Visit Counter">
 
-<svg max-width="980" height="100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-labelledby="cardTitle" role="img">
-  <title id="cardTitle">GitHub README Content</title>
-  <foreignObject max-width="980" height="100">
-    <style>
-        .container{
-            display: flex;
-            justify-content: space-between;
-        }
-    </style>
-    <div xmlns="http://www.w3.org/1999/xhtml" class="container">
-      
-        <img src="https://github-readme-stats.vercel.app/api?username=AlexandreHamm&theme=react&show_icons=true&hide_title=true&hide_border=true" alt="Github Stats">
-          <img src="https://profile-counter.glitch.me/AlexandreHamm/count.svg" alt="Visit Counter">
-    </div>
-  </foreignObject>
-</svg>
-
