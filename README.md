@@ -1,5 +1,5 @@
-<p align='top'><img align='left' src='https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=EN+FORMATION+CHEZ+ONLINEFORMAPRO'><img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=xdeepz&cover_image=false&theme=novatorem&bar_color=0dbef2&bar_color_cover=false&align=right" href='https://spotify-github-profile.vercel.app/api/view?uid=xdeepz&redirect=true' alt="Spotify"></p>
-<p><br \><hr \></p>
+<p align='top'><img align='left' src='https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=EN+FORMATION+CHEZ+ONLINEFORMAPRO'><img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=xdeepz&cover_image=false&theme=novatorem&bar_color=0dbef2&bar_color_cover=false&align=right" href='https://spotify-github-profile.vercel.app/api/view?uid=xdeepz&redirect=true' alt="Spotify"><br \></p>
+<hr \><br \>
 [ I N - C O N S T R U C T I O N ]
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexandreHamm&theme=react&show_icons=true&hide_title=true&hide_border=true" alt="Github Stats">
 
