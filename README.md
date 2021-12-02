@@ -2,7 +2,7 @@
 <hr \><br \>
 
 <p align="center"><img src="https://i.imgur.com/5jNIpPx.png" alt="Github Stats"></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexandreHamm&theme=react&show_icons=true&hide_title=true&hide_border=true" alt="Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexandreHamm&theme=react&show_icons=true&hide_title=true&hide_border=true" href="https://github.com/AlexandreHamm" alt="Github Stats">
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexandreHamm&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DDDDDD&currStreakNum=DDDDDD&sideNums=DDDDDD)
 
