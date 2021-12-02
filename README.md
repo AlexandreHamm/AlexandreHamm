@@ -5,9 +5,14 @@
 [<p align="center"><img src="https://i.imgur.com/0Pl86VZ.png" alt="You can call me Alex. I'm a web developper.">](https://github.com/AlexandreHamm)</p>
 
 <ul>
-    <li><p>[<img src='https://svgshare.com/i/cVB.svg' alt='github' height='16'>](https://github.com/AlexandreHamm)<p></li>
-    <li>[<img src='https://svgshare.com/i/cV1.svg' alt='linkedin' height='16'>](https://www.linkedin.com/in/alexandre-hamm-a30545209/)</li>
-</ul>
+
+[<img src='https://svgshare.com/i/cVB.svg' alt='github' height='16'>](https://github.com/AlexandreHamm) GitHub
+
+</li><li>
+
+[<img src='https://svgshare.com/i/cV1.svg' alt='linkedin' height='16'>](https://www.linkedin.com/in/alexandre-hamm-a30545209/) LinkedIN
+
+</li></ul>
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlexandreHamm&theme=react&show_icons=true&hide_title=true&hide_border=true" alt="Github Stats"></p>
