@@ -6,3 +6,6 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexandreHamm&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DDDDDD&currStreakNum=DDDDDD&sideNums=DDDDDD)
 
 <img align="right" src="https://profile-counter.glitch.me/AlexandreHamm/count.svg" alt="Visit Counter">
+
+<img src="https://svgshare.com/i/cU9.svg" alt="Visit Counter">
+
