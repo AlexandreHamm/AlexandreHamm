@@ -6,11 +6,11 @@
 
 <ul><li>
 
-[<img src='https://svgshare.com/i/cVB.svg' alt='github' height='16'> GitHub](https://github.com/AlexandreHamm)
+[GitHub <img src='https://svgshare.com/i/cVB.svg' alt='github' height='16'>](https://github.com/AlexandreHamm)
 
-</li>
+</li><li>
 
-[<img src='https://svgshare.com/i/cV1.svg' alt='linkedin' height='16'> LinkedIN](https://www.linkedin.com/in/alexandre-hamm-a30545209/)
+[LinkedIN <img src='https://svgshare.com/i/cV1.svg' alt='linkedin' height='16'>](https://www.linkedin.com/in/alexandre-hamm-a30545209/)
 
 </li></ul>
 
