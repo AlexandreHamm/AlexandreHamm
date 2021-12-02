@@ -4,13 +4,17 @@
 
 [<p align="center"><img src="https://i.imgur.com/TCqZaOi.png" alt="You can call me Alex. I'm a web developper.">](https://github.com/AlexandreHamm)</p>
 
-<ul><li>
+<ul>
 
-[<img src='https://svgshare.com/i/cVB.svg' alt='github' height='16'> GitHub](https://github.com/AlexandreHamm)
+### Socials
+
+<li>
+
+[<img src='https://svgshare.com/i/cVB.svg' alt='github' height='16'> - GitHub](https://github.com/AlexandreHamm)
 
 </li><li>
 
-[<img src='https://svgshare.com/i/cV1.svg' alt='linkedin' height='16'> LinkedIN](https://www.linkedin.com/in/alexandre-hamm-a30545209/)
+[<img src='https://svgshare.com/i/cV1.svg' alt='linkedin' height='16'> - LinkedIN](https://www.linkedin.com/in/alexandre-hamm-a30545209/)
 
 </li></ul>
 
