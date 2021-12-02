@@ -2,7 +2,7 @@
 
 <br><br><br><hr>
 
-[<p align="center"><img src="https://i.imgur.com/0axameh.png" alt="You can call me Alex. I'm a web developper.">](https://github.com/AlexandreHamm)</p>
+[<p align="center"><img src="https://i.imgur.com/x77VrEY.png" alt="You can call me Alex. I'm a web developper.">](https://github.com/AlexandreHamm)</p>
 
 <ul><li>
 
