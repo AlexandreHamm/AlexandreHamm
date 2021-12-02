@@ -3,12 +3,14 @@
 <br><br><br><hr>
 
 [<p align="center"><img src="https://i.imgur.com/0Pl86VZ.png" alt="You can call me Alex. I'm a web developper.">](https://github.com/AlexandreHamm)</p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexandreHamm&theme=react&show_icons=true&hide_title=true&hide_border=true" alt="Github Stats">
 
-[<img src='https://svgshare.com/i/cVB.svg' alt='github' height='30'>](https://github.com/AlexandreHamm)
-[<img src='https://svgshare.com/i/cV1.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/alexandre-hamm-a30545209/)
+<ul>
+    <li><p>[<img src='https://svgshare.com/i/cVB.svg' alt='github' height='16'>](https://github.com/AlexandreHamm)<p></li>
+    <li>[<img src='https://svgshare.com/i/cV1.svg' alt='linkedin' height='16'>](https://www.linkedin.com/in/alexandre-hamm-a30545209/)</li>
+</ul>
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexandreHamm&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DDDDDD&currStreakNum=DDDDDD&sideNums=DDDDDD)
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlexandreHamm&theme=react&show_icons=true&hide_title=true&hide_border=true" alt="Github Stats"></p>
 
 <img align="right" src="https://profile-counter.glitch.me/AlexandreHamm/count.svg" alt="Visit Counter">
 
