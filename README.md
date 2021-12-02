@@ -2,7 +2,7 @@
 
 <br><br><br><hr>
 
-[<p align="center"><img src="https://i.imgur.com/BR6kq9g.png" alt="You can call me Alex. I'm a web developper.">](https://github.com/AlexandreHamm)</p>
+[<p align="center"><img src="https://i.imgur.com/0Pl86VZ.png" alt="You can call me Alex. I'm a web developper.">](https://github.com/AlexandreHamm)</p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexandreHamm&theme=react&show_icons=true&hide_title=true&hide_border=true" alt="Github Stats">
 
 
