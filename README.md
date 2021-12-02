@@ -19,7 +19,7 @@
 </li></ul>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlexandreHamm&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=FFFFFF&icon_color=36bcf7" alt="Github Stats"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlexandreHamm&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=FFFFFF&icon_color=59c9fa" alt="Github Stats"></p>
 
 <img align="right" src="https://profile-counter.glitch.me/AlexandreHamm/count.svg" alt="Visit Counter">
 
