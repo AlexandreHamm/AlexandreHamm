@@ -1,4 +1,7 @@
-[<header align='top'>[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xdeepz&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)<img align='left' src='https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=false&width=485&height=65&lines=TRAINING+COURSE+AT+ONLINEFORMAPRO'></header>
+[<header align='top'>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xdeepz&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+<img align='left' src='https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=false&width=485&height=65&lines=TRAINING+COURSE+AT+ONLINEFORMAPRO'></header>
 
 <br><br><br><hr>
 
