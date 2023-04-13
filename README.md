@@ -1,5 +1,19 @@
 # Welcome to my brain !
 
+[ *REVAMP ONGOING* ]
+
+## TITLE!
+
+<p>Lorem Ipsum</p>
+
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
+
 *i wanted to introduce a fun character that would share my vision of the dev work and the limitless of design possibilites it offers*
 <table>
   <thead>
@@ -18,9 +32,6 @@
   </div>
 
 <br>
-
-
-[ *REVAMP ONGOING* ]
 
 ## TITLE!
 
