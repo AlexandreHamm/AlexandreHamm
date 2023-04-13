@@ -1,8 +1,23 @@
-[<header align='top'><img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=xdeepz&cover_image=true&theme=novatorem&bar_color=0dbef2&bar_color_cover=false&align=right" alt="Spotify">](https://spotify-github-profile.vercel.app/api/view?uid=xdeepz&redirect=true)<img align='left' src='https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=false&width=485&height=65&lines=TRAINING+COURSE+AT+ONLINEFORMAPRO'></header>
+# Hi and welcome.
 
-<br><br><br><hr>
+[ *IN CONSTRUCTION* ]
 
-[<p align="center"><img src="https://i.imgur.com/TCqZaOi.png" alt="You can call me Alex. I'm a web developper.">](https://github.com/AlexandreHamm)</p>
+<table>
+  <thead>
+    <tr>
+      <th width='300px'>
+        <img src='https://user-images.githubusercontent.com/81152973/231556443-e57dd167-0a9c-42f7-a650-9574a9dc0de4.png'>
+      </th>
+      <th width='700px'><img align='center' src='https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&color=%EEEEEE&size=25&duration=3000&pause=&multiline=true&repeat=false&width=650&height=95&lines=+I+am+Omega%2C+the+culmination+of+all+that+has+come;+before+me%2C+and+the+gateway+to+the+limitless;possibilities+of+the+future.'/></th>
+    </tr>
+  </thead>
+</table>
+
+## TITLE!
+
+### TITLE!
+
+<br><br><br>
 
 <ul>
 
@@ -18,8 +33,6 @@
 
 </li></ul>
 
+<br><br><br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlexandreHamm&show_icons=true&hide_title=true&hide_border=true&title_color=36bcf7&bg_color=00000000&text_color=FFFFFF&icon_color=36bcf7" alt="Github Stats"></p>
-
-<img align="right" src="https://profile-counter.glitch.me/AlexandreHamm/count.svg" alt="Visit Counter">
-
+[<img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=xdeepz&cover_image=true&theme=novatorem&bar_color=0dbef2&bar_color_cover=false&align=right" alt="Spotify">](https://spotify-github-profile.vercel.app/api/view?uid=xdeepz&redirect=true)
