@@ -14,6 +14,10 @@
 
 [ *REVAMP ONGOING* ]
 
+<div align="center" style="display: flex; align-items: flex-start;">
+  <a href='#socials'>Jump to Socials</a>
+</div>
+
 ## TITLE!
 
 <p>Lorem Ipsum</p>
@@ -25,10 +29,6 @@
   <li></li>
   <li></li>
 </ul>
-
-  <div align="center" style="display: flex; align-items: flex-start;">
-    <a href='#socials'>Jump to Socials</a>
-  </div>
 
 <br>
 
