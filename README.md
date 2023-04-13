@@ -1,4 +1,4 @@
-# Just a raindrop in a vast ocean
+# JUST A RAINDROP IN A VAST OCEAN
 
 [ *REVAMP ONGOING* ]
 
