@@ -1,4 +1,4 @@
-# Welcome to my brain !
+# Just a raindrop in a vast ocean
 
 [ *REVAMP ONGOING* ]
 
