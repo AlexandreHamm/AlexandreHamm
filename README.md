@@ -1,5 +1,6 @@
-# Welcome Mortal.
+# Welcome to my brain !
 
+*i wanted to introduce a fun character that would share my vision of the dev work and the limitless of design possibilites it offers*
 <table>
   <thead>
     <tr>
