@@ -1,5 +1,3 @@
-# Just a raindrop in a vast ocean
-
 <table>
   <thead>
     <tr>
