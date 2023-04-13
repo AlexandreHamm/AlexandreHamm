@@ -1,6 +1,4 @@
-# Hi and welcome.
-
-[ *IN CONSTRUCTION* ]
+# Welcome Mortal.
 
 <table>
   <thead>
@@ -12,6 +10,16 @@
     </tr>
   </thead>
 </table>
+
+
+  <div align="center" style="display: flex; align-items: flex-start;">
+    <a href='#socials'>Jump to Socials</a>
+  </div>
+
+<br>
+
+
+[ *IN CONSTRUCTION* ]
 
 ## TITLE!
 
@@ -31,7 +39,9 @@
 
 [<img src='https://svgshare.com/i/cV1.svg' alt='linkedin' height='16'> - LinkedIN](https://www.linkedin.com/in/alexandre-hamm-a30545209/)
 
-</li></ul>
+</li>
+
+</ul>
 
 <br><br><br>
 
