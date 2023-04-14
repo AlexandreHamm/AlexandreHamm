@@ -10,15 +10,13 @@
   </thead>
 </table>
 
-*i wanted to introduce a fun character that would share my vision of the dev work and the limitless of design possibilites it offers*
+<p align='center'>
+  <a href='https://www.linkedin.com/in/alexandre-hamm-a30545209/'>LinkedIN</a> - <a href='https://github.com/AlexandreHamm'>GitHub</a>
+</p>
+
+## Hi and welcome ! I'm Alex and I'm obsessed with Front End.
 
 [ *REVAMP ONGOING* ]
-
-<div align="center" style="display: flex; align-items: flex-start;">
-  <a href='#socials'>Jump to Socials</a>
-</div>
-
-## TITLE!
 
 <p>Lorem Ipsum</p>
 
@@ -35,24 +33,6 @@
 ## TITLE!
 
 ### TITLE!
-
-<br><br><br>
-
-<ul>
-
-### Socials
-
-<li>
-
-[<img src='https://svgshare.com/i/cVB.svg' alt='github' height='16'> - GitHub](https://github.com/AlexandreHamm)
-
-</li><li>
-
-[<img src='https://svgshare.com/i/cV1.svg' alt='linkedin' height='16'> - LinkedIN](https://www.linkedin.com/in/alexandre-hamm-a30545209/)
-
-</li>
-
-</ul>
 
 <br><br><br>
 
