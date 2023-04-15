@@ -11,7 +11,7 @@
 </table>
 
 <p align='center'>
-  <a href='https://www.linkedin.com/in/alexandre-hamm-a30545209/'>LinkedIN</a> - <a href='https://github.com/AlexandreHamm'>GitHub</a>
+  <a href='https://www.linkedin.com/in/alexandre-hamm-a30545209/'>LinkedIN</a> - <a href='https://codepen.io/xdp'>Codepen</a>
 </p>
 
 ## Hi and welcome ! I'm Alex and I'm obsessed with Front End.
