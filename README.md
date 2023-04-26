@@ -1,26 +1,10 @@
-<p align='center'>
-  <a href='https://www.linkedin.com/in/alexandre-hamm-a30545209/'>LinkedIN</a> - <a href='https://codepen.io/xdp'>Codepen</a>
-</p>
-
-## Hi and welcome ! I'm Alex and I'm obsessed with Front End.
-
-[ *REVAMP ONGOING* ]
-
-<p>Lorem Ipsum</p>
+## Hi, I'm Alex
+### You can find and contact me on
 
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li><a href='https://www.linkedin.com/in/alexandre-hamm-a30545209/'>LinkedIN</a></li>
+  <li><a href='https://codepen.io/xdp'>Codepen</a></li>
 </ul>
-
-<br>
-
-## TITLE!
-
-### TITLE!
 
 <br><br><br>
 
