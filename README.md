@@ -3,6 +3,7 @@
 
 <ul>
   <li><a href='https://www.linkedin.com/in/alexandre-hamm-a30545209/'>LinkedIN</a></li>
+  <li><a href='https://alexandrehamm.com/'>Portfolio</a></li>
   <li><a href='https://codepen.io/xdp'>Codepen</a></li>
 </ul>
 
