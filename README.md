@@ -9,4 +9,4 @@
 
 <br><br><br>
 
-[<img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=xdeepz&cover_image=true&theme=novatorem&bar_color=dddddd&bar_color_cover=false&align=right" alt="Spotify">](https://spotify-github-profile.vercel.app/api/view?uid=xdeepz&redirect=true)
+[<img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=xdeepz&cover_image=true&theme=novatorem&bar_color=dddddd&bar_color_cover=false&align=right" alt="Spotify">](https://spotify-github-profile.vercel.app/api/view?uid=xdeepz&redirect=true)
